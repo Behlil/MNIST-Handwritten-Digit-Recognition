@@ -19,7 +19,7 @@ This repository contains the code for a machine learning model trained to recogn
 4. Extract the downloaded zip file, the train.csv and test.csv files should be in the extracted folder.
 ## Usage
 1. Clone the repository: \
-`git clone https://github.com/Behlil/Digit-Recognizer`
+`git clone https://github.com/Behlil/MNIST-Handwritten-Digit-Recognition`
 2. Install the dependencies: \
 `pip install -r requirements.txt`
 3. Run the jupyter notebook: \
