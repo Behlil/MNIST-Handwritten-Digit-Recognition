@@ -11,7 +11,7 @@ This repository contains the code for a machine learning model trained to recogn
 
 ## Usage
 1. Clone the repository: \
-`git clone https://github.com/behlil/mnist-handwritten-digit-recognition`
+`git clone https://github.com/Behlil/Digit-Recognizer`
 2. Install the dependencies: \
 `pip install -r requirements.txt`
 3. Run the jupyter notebook: \
