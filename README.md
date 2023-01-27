@@ -9,6 +9,14 @@ This repository contains the code for a machine learning model trained to recogn
 - Matplotlib
 - Sklearn
 
+## Downloading the Data
+1. Go to the following link: `https://www.kaggle.com/competitions/digit-recognizer/data`
+
+2. Log in to your Kaggle account.
+
+3. Scroll down to the "Data" section and click on the "Download All" button to download a zip file containing the train.csv and test.csv files.
+
+4. Extract the downloaded zip file, the train.csv and test.csv files should be in the extracted folder.
 ## Usage
 1. Clone the repository: \
 `git clone https://github.com/Behlil/Digit-Recognizer`
